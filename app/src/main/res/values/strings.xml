@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Home</string>
+
+    <string name="mode_off">Off</string>
+    <string name="mode_static">Static</string>
+    <string name="mode_breathing">Breathing</string>
+    <string name="mode_color_cycle">Color Cycle</string>
+    <string name="mode_strobing">Strobing</string>
+
+    <string name="applying">Applying</string>
+    <string name="error">Something when wrong!</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="no_connection">No Connection</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting</string>
+    <string name="close">Close</string>
+    <string name="close_connection">Close Connection?</string>
+    <string name="bluetooth_disabled">Bluetooth Disabled</string>
+    <string name="open_bluetooth_connection">Tap here to open connection</string>
+    <string name="turning_on_bluetooth">Turning On Bluetooth</string>
+    <string name="turning_off_bluetooth">Turning Off Bluetooth</string>
+    <string name="please_wait">Please wait a moment</string>
+    <string name="bluetooth_tap_to_enable">Tap here to enable bluetooth</string>
+    <string name="connected">Connected</string>
+    <string name="device_address">Device address %address%</string>
+    <string name="apply">Apply</string>
+    <string name="done">Done</string>
+    <string name="interval">Interval</string>
+    <string name="interval_1">1 ms</string>
+    <string name="interval_5">5 ms</string>
+    <string name="interval_10">10 ms</string>
+    <string name="interval_25">25 ms</string>
+    <string name="interval_50">50 ms</string>
+    <string name="interval_100">100 ms</string>
+    <string name="interval_1000">1000 ms</string>
+    <string name="led_color">LED Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="mode">Mode</string>
+    <string name="configuration">Configuration</string>
+</resources>
